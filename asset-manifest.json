@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/robotsfriends/static/css/main.41861a99.chunk.css",
+    "main.css": "/robotsfriends/static/css/main.fb3c1287.chunk.css",
     "main.js": "/robotsfriends/static/js/main.763f93e3.chunk.js",
     "main.js.map": "/robotsfriends/static/js/main.763f93e3.chunk.js.map",
     "runtime-main.js": "/robotsfriends/static/js/runtime-main.9dd194f1.js",
@@ -9,10 +9,10 @@
     "static/js/2.7c474c73.chunk.js": "/robotsfriends/static/js/2.7c474c73.chunk.js",
     "static/js/2.7c474c73.chunk.js.map": "/robotsfriends/static/js/2.7c474c73.chunk.js.map",
     "index.html": "/robotsfriends/index.html",
-    "precache-manifest.5648accf08fc927b988d901cb12d8514.js": "/robotsfriends/precache-manifest.5648accf08fc927b988d901cb12d8514.js",
+    "precache-manifest.d67a03d66f3de2cb2c6e6d5d227bd90b.js": "/robotsfriends/precache-manifest.d67a03d66f3de2cb2c6e6d5d227bd90b.js",
     "service-worker.js": "/robotsfriends/service-worker.js",
     "static/css/2.07548e1c.chunk.css.map": "/robotsfriends/static/css/2.07548e1c.chunk.css.map",
-    "static/css/main.41861a99.chunk.css.map": "/robotsfriends/static/css/main.41861a99.chunk.css.map",
+    "static/css/main.fb3c1287.chunk.css.map": "/robotsfriends/static/css/main.fb3c1287.chunk.css.map",
     "static/js/2.7c474c73.chunk.js.LICENSE.txt": "/robotsfriends/static/js/2.7c474c73.chunk.js.LICENSE.txt",
     "static/media/App.css": "/robotsfriends/static/media/SEGA.12a3db8b.woff"
   },
@@ -20,7 +20,7 @@
     "static/js/runtime-main.9dd194f1.js",
     "static/css/2.07548e1c.chunk.css",
     "static/js/2.7c474c73.chunk.js",
-    "static/css/main.41861a99.chunk.css",
+    "static/css/main.fb3c1287.chunk.css",
     "static/js/main.763f93e3.chunk.js"
   ]
 }
