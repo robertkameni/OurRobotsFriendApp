@@ -1,26 +1,26 @@
 {
   "files": {
-    "main.css": "/OurRobotsFriendApp/static/css/main.bb38ee3a.chunk.css",
-    "main.js": "/OurRobotsFriendApp/static/js/main.3356ee3a.chunk.js",
-    "main.js.map": "/OurRobotsFriendApp/static/js/main.3356ee3a.chunk.js.map",
-    "runtime-main.js": "/OurRobotsFriendApp/static/js/runtime-main.c6e4da84.js",
-    "runtime-main.js.map": "/OurRobotsFriendApp/static/js/runtime-main.c6e4da84.js.map",
-    "static/css/2.07548e1c.chunk.css": "/OurRobotsFriendApp/static/css/2.07548e1c.chunk.css",
-    "static/js/2.7c474c73.chunk.js": "/OurRobotsFriendApp/static/js/2.7c474c73.chunk.js",
-    "static/js/2.7c474c73.chunk.js.map": "/OurRobotsFriendApp/static/js/2.7c474c73.chunk.js.map",
-    "index.html": "/OurRobotsFriendApp/index.html",
-    "precache-manifest.95432ef6ba9f43f9eea95d6019d29e38.js": "/OurRobotsFriendApp/precache-manifest.95432ef6ba9f43f9eea95d6019d29e38.js",
-    "service-worker.js": "/OurRobotsFriendApp/service-worker.js",
-    "static/css/2.07548e1c.chunk.css.map": "/OurRobotsFriendApp/static/css/2.07548e1c.chunk.css.map",
-    "static/css/main.bb38ee3a.chunk.css.map": "/OurRobotsFriendApp/static/css/main.bb38ee3a.chunk.css.map",
-    "static/js/2.7c474c73.chunk.js.LICENSE.txt": "/OurRobotsFriendApp/static/js/2.7c474c73.chunk.js.LICENSE.txt",
-    "static/media/App.css": "/OurRobotsFriendApp/static/media/SEGA.12a3db8b.woff"
+    "main.css": "/robotsfriends/static/css/main.41861a99.chunk.css",
+    "main.js": "/robotsfriends/static/js/main.763f93e3.chunk.js",
+    "main.js.map": "/robotsfriends/static/js/main.763f93e3.chunk.js.map",
+    "runtime-main.js": "/robotsfriends/static/js/runtime-main.9dd194f1.js",
+    "runtime-main.js.map": "/robotsfriends/static/js/runtime-main.9dd194f1.js.map",
+    "static/css/2.07548e1c.chunk.css": "/robotsfriends/static/css/2.07548e1c.chunk.css",
+    "static/js/2.7c474c73.chunk.js": "/robotsfriends/static/js/2.7c474c73.chunk.js",
+    "static/js/2.7c474c73.chunk.js.map": "/robotsfriends/static/js/2.7c474c73.chunk.js.map",
+    "index.html": "/robotsfriends/index.html",
+    "precache-manifest.5648accf08fc927b988d901cb12d8514.js": "/robotsfriends/precache-manifest.5648accf08fc927b988d901cb12d8514.js",
+    "service-worker.js": "/robotsfriends/service-worker.js",
+    "static/css/2.07548e1c.chunk.css.map": "/robotsfriends/static/css/2.07548e1c.chunk.css.map",
+    "static/css/main.41861a99.chunk.css.map": "/robotsfriends/static/css/main.41861a99.chunk.css.map",
+    "static/js/2.7c474c73.chunk.js.LICENSE.txt": "/robotsfriends/static/js/2.7c474c73.chunk.js.LICENSE.txt",
+    "static/media/App.css": "/robotsfriends/static/media/SEGA.12a3db8b.woff"
   },
   "entrypoints": [
-    "static/js/runtime-main.c6e4da84.js",
+    "static/js/runtime-main.9dd194f1.js",
     "static/css/2.07548e1c.chunk.css",
     "static/js/2.7c474c73.chunk.js",
-    "static/css/main.bb38ee3a.chunk.css",
-    "static/js/main.3356ee3a.chunk.js"
+    "static/css/main.41861a99.chunk.css",
+    "static/js/main.763f93e3.chunk.js"
   ]
 }
